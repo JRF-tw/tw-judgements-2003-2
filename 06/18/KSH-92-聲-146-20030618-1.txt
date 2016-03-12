@@ -1,0 +1,29 @@
+【裁判字號】    92,聲,146
+【裁判日期】    920618
+【裁判案由】    聲請定其應執行刑
+【裁判全文】
+臺灣高等法院高雄分院刑事裁定                      九十二年度聲字第一四六號
+      聲  請  人  臺灣高等法院高雄分院檢察署檢察官
+      受  刑  人  甲○○
+右列聲請人因受刑人數罪併罰有二裁判以上，聲請定其應執行之刑，本院裁定如左：
+      主      文
+甲○○因傷害等罪，分別處如附表所示之刑，應執行有期徒刑壹年貳月。
+      理      由
+受刑人甲○○因傷害等罪，經台灣高雄地方法院及本院先後判處如主文所示之刑，詳
+ding: KSHM926N.008  imploding (44%), done.
+  Adding: KSHM926N.009  imploding (47%), done.
+  Adding: KSHM926K.015  imploding (44%), done.
+  Adding: KSHM926N.010  imploding (44%), done.
+  Adding: KSHM926N.011  imploding (49%), done.
+  Adding: KSHM926K.016  imploding (44%), done.
+  Adding: KSHM926N.012  imploding (32%), done.
+  Adding: KSHM926N.013  imploding (33%), done.
+  Adding: KSHM926N.014  imploding (43%), done.
+  Adding: KSHM926K.017  imploding (44%), done.
+  Adding: KSHM926K.018  imploding (44%), done.
+  Adding: KSHM926N.015  imploding (43%), done.
+  Adding: KSHM926N.016  imploding (48%), done.
+  Adding: KSHM926K.019  G      年      六      月     十八   日
+
+
+司法院資訊處製作；財團法人民間司法改革基金會備份。
